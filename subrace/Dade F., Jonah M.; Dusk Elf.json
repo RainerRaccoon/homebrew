@@ -2,19 +2,21 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "YCoR",
-				"abbreviation": "YCoR",
+				"json": "Y'sCodex",
 				"full": "Y's Codex of Realities",
+				"abbreviation": "YCoR",
+				"color": "782d99",
 				"authors": [
 					"Dade Fogleman",
 					"Jonah Mitchell"
 				],
 				"convertedBy": [
-					"Dade Fogleman"
+					"RainerRaccoon"
 				],
 				"version": "1.0",
 				"url": "https://homebrewery.naturalcrit.com/share/mnjXuZQNgDBX",
-				"targetSchema": "1.2"
+				"status": "ready"
+				"edition": "classic"
 			}
 		],
 		"dependencies": {
@@ -22,10 +24,8 @@
 				"PHB"
 			]
 		},
-		"dateAdded": 1643311424,
-		"dateLastModified": 1643311424,
-		"_dateLastModifiedHash": "f7756ce66c",
-		"edition": "classic"
+		"dateAdded": 1730846703,
+		"dateLastModified": 1730846703
 	},
 	"subrace": [
 		{
